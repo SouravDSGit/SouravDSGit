@@ -1,8 +1,33 @@
-## Hi there 👋
+<h1> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-I’m a Data sceintista nd researcher working on **hydrologic modeling**, **probabilistic hazard analysis**, and **scientific software development**. My work focuses on building **region‑specific peak‑discharge models**, **adaptive forecasting systems**, and **decision support systems and tools** that support real‑world decision‑making.
+<p align="center">
+  <a href="https://github.com/SouravDSGit">
+    <img src="https://img.shields.io/badge/SouravDSGit-blue?style=for-the-badge&logo=github&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
+  </a>
+  <a href="https://www.linkedin.com/in/sourav-mukherjee-hydro/">
+    <img src="https://img.shields.io/badge/-Sourav%20Mukherjee-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
+  </a>
+  <a href="mailto:sourav.mukherjee@uidaho.edu">
+    <img src="https://img.shields.io/badge/sourav.mukherjee@uidaho.edu-0078D4?style=for-the-badge&logo=Protonmail&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
+  </a>
+  <a href="https://twitter.com/SouravDSGit">
+    <img src="https://img.shields.io/badge/@SouravDSGit-0078D4?style=for-the-badge&logo=x&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
+  </a>
+  <br><br>
+  <a href="https://github.com/SouravDSGit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SouravDSGit&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/SouravDSGit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravDSGit&layout=compact&theme=tokyonight" />
+  </a>
+</p>
 
-I enjoy transforming scientific workflows into **scalable web applications**, **GeoAI systems**, and **Digital Twin**.
+<br>
+
+I'm a **Data Scientist and Researcher** working on **hydrologic modeling**, **probabilistic hazard analysis**, and **scientific software development**.  
+My work focuses on building **hazard models**, **adaptive forecasting systems**, and **decision‑support tools** that support real‑world decision‑making.
+
+I enjoy transforming scientific workflows into **scalable web applications**, **GeoAI systems**, and **Digital Twins** that make environmental data actionable.
 
 ---
 
@@ -15,28 +40,21 @@ I enjoy transforming scientific workflows into **scalable web applications**, **
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, R, JavaScript, Bash, Rust 
+- **Languages:** Python, R, JavaScript, Bash, Rust  
 - **Modeling:** NumPy, SciPy, Pandas, xarray, PyTorch  
 - **Geospatial:** GDAL, Rasterio, GeoPandas, Shapely  
 - **Backend:** Flask, FastAPI, Docker, Linux  
-- **Visualization:** Matplotlib, Plotly, Infographic‑style scientific figures  
+- **Visualization:** Matplotlib, Plotly, infographic‑style scientific figures  
 - **AI/ML:** LLMs, RAG, local inference pipelines  
 
 ---
 
 ## 📌 Current Focus
-- Building **Risk Assessment Model for Hazards**  
+- Building **Risk Assessment Models for Hazards**  
 - Designing **AI assistants** for regulated industries  
 - Developing **web‑based decision‑support systems** for environmental insights  
 
 ---
 
-## 🌐 Connect
-- GitHub: **SouravDSGit**  
-
----
-
 ## 🤝 Open to Collaboration
-If you’re working on **hazard modeling and decision support system**, **scientific software development**, I’m always happy to connect.
-
----
+If you’re working on **hazard modeling**, **scientific software**, or **privacy‑first AI**, I’m always happy to connect.
