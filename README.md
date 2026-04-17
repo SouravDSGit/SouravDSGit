@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-Sourav%20Mukherjee-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
   </a>
   <a href="mailto:sourav.mukherjee@uidaho.edu">
-    <img src="https://img.shields.io/badge/sourav.mukherjee@uidaho.edu-0078D4?style=for-the-badge&logo=Protonmail&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
+    <img src="https://img.shields.io/badge/soumukhcivil@gmail.com-0078D4?style=for-the-badge&logo=Protonmail&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
   </a>
   <a href="https://twitter.com/SouravDSGit">
     <img src="https://img.shields.io/badge/@SouravDSGit-0078D4?style=for-the-badge&logo=x&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
