@@ -2,21 +2,22 @@
 
 <p align="center">
   <a href="https://github.com/SouravDSGit">
-    <img src="https://img.shields.io/badge/SouravDSGit-blue?style=for-the-badge&logo=github&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
+    <img alt="GitHub Profile" src="https://img.shields.io/badge/SouravDSGit-blue?style=for-the-badge&logo=github&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
   </a>
   <a href="https://www.linkedin.com/in/sourav-mukherjee-503155149/">
-    <img src="https://img.shields.io/badge/-Sourav%20Mukherjee-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
+    <img alt="LinkedIn Profile" src="https://img.shields.io/badge/-Sourav%20Mukherjee-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
   </a>
-  <a href="mailto:sourav.mukherjee@uidaho.edu">
-    <img src="https://img.shields.io/badge/soumukhcivil@gmail.com-0078D4?style=for-the-badge&logo=Protonmail&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
+  <a href="mailto:soumukhcivil@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/soumukhcivil@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=1f1f1f&color=1f1f1f">
   </a>
  
   <br><br>
+  
   <a href="https://github.com/SouravDSGit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SouravDSGit&show_icons=true&theme=tokyonight" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SouravDSGit&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/SouravDSGit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravDSGit&layout=compact&theme=tokyonight" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravDSGit&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
