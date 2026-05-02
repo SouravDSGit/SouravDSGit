@@ -14,10 +14,10 @@
   <br><br>
   
   <a href="https://github.com/SouravDSGit">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SouravDSGit&show_icons=true&theme=tokyonight" />
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=SouravDSGit&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/SouravDSGit">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravDSGit&layout=compact&theme=tokyonight" />
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SouravDSGit&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
