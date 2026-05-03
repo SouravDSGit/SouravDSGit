@@ -23,7 +23,7 @@
 
 <br>
 
-I'm a **Data Scientist and Researcher** working on **hydrologic modeling**, **probabilistic hazard analysis**, and **scientific software development**.  
+I'm a **Data Scientist and Researcher** working on **infrastructure resilience**, **hydrologic modeling**, **probabilistic hazard analysis**, and **scientific software development**.  
 My work focuses on building **hazard models**, **adaptive forecasting systems**, and **decision‑support tools** that support real‑world decision‑making.
 
 I enjoy transforming scientific workflows into **scalable web applications**, **GeoAI systems**, and **Digital Twins** that make environmental data actionable.
